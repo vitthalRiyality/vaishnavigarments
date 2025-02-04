@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\bin\Debug\Vaishnavi Garment.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi_Garment.loginForm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi_Garment.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi Garment.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\bin\Debug\Vaishnavi Garment.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\bin\Debug\Vaishnavi Garment.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi Garment.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi Garment.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi_Garment.Dashboard.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Vaishnavi Garment\Vaishnavi Garment\obj\Debug\Vaishnavi Garment.csprojResolveAssemblyReference.cache
